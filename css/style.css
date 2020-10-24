@@ -1,0 +1,332 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  width: 90%;
+  margin: auto;
+  overflow: hidden;
+  padding: 30px 0;
+}
+.logo {
+  width: 20%;
+  float: left;
+}
+nav {
+  width: 50%;
+  float: right;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+}
+nav ul li {
+  float: left;
+  margin-left: 148px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #626262;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.banner {
+  width: 90%;
+  margin: auto;
+  padding: 50px 0;
+}
+.banner img {
+  width: 100%;
+}
+.photodiary {
+  width: 80%;
+  margin: auto;
+}
+.photodiary h5 {
+  text-transform: uppercase;
+  font-size: 20px;
+  color: #b4ad9e;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+.photodiary h1 {
+  color: #626262;
+  text-transform: capitalize;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+.photodiary p {
+  font-size: 25px;
+  color: #626262;
+}
+.lifestyle {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 135px;
+  overflow: hidden;
+}
+.lifestyle_left {
+  width: 46%;
+  float: left;
+  padding-bottom: 130px;
+}
+.lifestyle_left img {
+  width: 100%;
+}
+.lifestyle_left h5 {
+  font-size: 20px;
+  color: #b4ad9e;
+  text-transform: uppercase;
+  padding: 31px 0;
+}
+.lifestyle_left h1 {
+  font-size: 50px;
+  color: #626262;
+  text-transform: capitalize;
+  padding-bottom: 40px;
+}
+.lifestyle_left p {
+  font-size: 25px;
+  color: #626262;
+  padding-right: 40px;
+}
+.lifestyle_right {
+  width: 46%;
+  float: right;
+  padding-bottom: 130px;
+}
+.lifestyle_right img {
+  width: 100%;
+}
+.lifestyle_right h5 {
+  font-size: 20px;
+  color: #b4ad9e;
+  text-transform: uppercase;
+  padding: 31px 0;
+}
+.lifestyle_right h1 {
+  font-size: 50px;
+  color: #626262;
+  text-transform: capitalize;
+  padding-bottom: 40px;
+}
+.lifestyle_right p {
+  font-size: 25px;
+  color: #626262;
+  padding-right: 40px;
+}
+.lifestyle2 {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 135px;
+  overflow: hidden;
+}
+.lifestyle2_left {
+  width: 46%;
+  float: left;
+  padding-bottom: 130px;
+}
+.lifestyle2_left img {
+  width: 100%;
+}
+.lifestyle2_left h5 {
+  font-size: 20px;
+  color: #b4ad9e;
+  text-transform: uppercase;
+  padding: 31px 0;
+}
+.lifestyle2_left h1 {
+  font-size: 50px;
+  color: #626262;
+  text-transform: capitalize;
+  padding-bottom: 40px;
+}
+.lifestyle2_left p {
+  font-size: 25px;
+  color: #626262;
+  padding-right: 40px;
+}
+.lifestyle2_right {
+  width: 46%;
+  float: right;
+  padding-bottom: 130px;
+}
+.lifestyle2_right img {
+  width: 100%;
+}
+.lifestyle2_right h5 {
+  font-size: 20px;
+  color: #b4ad9e;
+  text-transform: uppercase;
+  padding: 31px 0;
+}
+.lifestyle2_right h1 {
+  font-size: 50px;
+  color: #626262;
+  text-transform: capitalize;
+  padding-bottom: 40px;
+}
+.lifestyle2_right p {
+  font-size: 25px;
+  color: #626262;
+  padding-right: 40px;
+}
+
+.sign_up {
+  background: #f0f0f0;
+  width: 100%;
+  margin-top: 130px;
+  padding-bottom: 50px;
+}
+.sign_up_content {
+  width: 33%;
+  margin: 0 auto;
+  position: relative;
+}
+.sign_up_content h1 {
+  text-transform: capitalize;
+  font-size: 50px;
+  padding: 125px 0;
+  color: #333333;
+  text-align: center;
+}
+.sign_up_content input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid black;
+  margin-bottom: 70px;
+  background: transparent;
+  text-transform: capitalize;
+  padding: 5px 0;
+  font-size: 20px;
+}
+.sign_up_content input:focus {
+  outline: none;
+}
+.sign_up_content input::placeholder {
+  font-size: 20px;
+}
+.send_icon {
+  position: absolute;
+  right: 0;
+  bottom: 73px;
+}
+.lifestyle3 {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 135px;
+  overflow: hidden;
+}
+.lifestyle3_left {
+  width: 46%;
+  float: left;
+  padding-bottom: 130px;
+}
+.lifestyle3_left img {
+  width: 100%;
+}
+.lifestyle3_left h5 {
+  font-size: 20px;
+  color: #b4ad9e;
+  text-transform: uppercase;
+  padding: 31px 0;
+}
+.lifestyle3_left h1 {
+  font-size: 50px;
+  color: #626262;
+  text-transform: capitalize;
+  padding-bottom: 40px;
+}
+.lifestyle3_left p {
+  font-size: 25px;
+  color: #626262;
+  padding-right: 40px;
+}
+.lifestyle3_right {
+  width: 46%;
+  float: right;
+  padding-bottom: 130px;
+}
+.lifestyle3_right img {
+  width: 100%;
+}
+.lifestyle3_right h5 {
+  font-size: 20px;
+  color: #b4ad9e;
+  text-transform: uppercase;
+  padding: 31px 0;
+}
+.lifestyle3_right h1 {
+  font-size: 50px;
+  color: #626262;
+  text-transform: capitalize;
+  padding-bottom: 40px;
+}
+.lifestyle3_right p {
+  font-size: 25px;
+  color: #626262;
+  padding-right: 40px;
+}
+.load_more {
+  padding: 100px;
+  text-align: center;
+}
+.load_more input {
+  background: transparent;
+  border: none;
+  border: 1px solid #626262;
+  padding: 20px 40px;
+  font-size: 20px;
+  color: #626262;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+footer {
+  background: #f0f0f0;
+  width: 100%;
+  padding: 50px 0;
+}
+.footer_content {
+  width: 90%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.footer_content_left {
+  width: 20%;
+  float: left;
+}
+.footer_content_left ul {
+  list-style: none;
+}
+.footer_content_left ul li {
+  float: left;
+  padding-right: 20px;
+}
+.footer_content_left a {
+  text-decoration: none;
+  text-transform: capitalize;
+  color: #626262;
+  font-size: 20px;
+  font-weight: 600;
+}
+.footer_content_right {
+  width: 20%;
+  float: right;
+  text-align: right;
+}
+.footer_content_right ul {
+  list-style: none;
+  overflow: hidden;
+  float: right;
+}
+.footer_content_right ul li {
+  float: left;
+  padding-right: 20px;
+}
+.footer_content_right a {
+  text-decoration: none;
+  text-transform: capitalize;
+  color: #626262;
+  font-size: 20px;
+  font-weight: 600;
+}
